@@ -1,0 +1,22 @@
+.top-banner-cold-chain-product{
+    background-image: url("../images/Top-Cold-Chain-image.jpg");
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 2000px #ffffff36;
+}
+
+.top-banner-cold-chain-product h1{
+    color: #ffffff;
+}
+/* .image-left-content-product{
+   
+} */
+.image-left-content-product img ,.img-right-content-product img{
+    object-fit: contain;
+    width: 100%;
+}
